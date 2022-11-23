@@ -1,0 +1,12 @@
+#include <stdio.h>//vivliothiki
+
+int main(){//programma 
+
+    char ch;
+
+printf("Enter the character:\n");
+scanf("%c",&ch);//eisagi o xristis enan xaraktira
+printf("%d",ch);//mas epistrefi tin timi se noumero   
+return 0;
+
+}
